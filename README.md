@@ -36,6 +36,7 @@ We love building, experimenting, and learning through:
 We’re constantly learning, collaborating, and pushing the boundaries of what we can create. This repo is a reflection of our journey as student developers.
 
 ---
+
 <p align="center">
   🔗 <a href="https://tinyurl.com/adwaith-ln">Adwaith</a> &nbsp;|&nbsp;
   <a href="https://tinyurl.com/karthik-ln">Karthik</a> &nbsp;|&nbsp;
