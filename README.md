@@ -45,10 +45,6 @@ We’re constantly learning, collaborating, and pushing the boundaries of what w
   🔗 <a href="https://tinyurl.com/adwaith-ln">Adwaith</a> &nbsp;|&nbsp;
   <a href="https://tinyurl.com/karthik-ln">Karthik</a> &nbsp;|&nbsp;
   <a href="https://tinyurl.com/shravan-ln">Sharvan</a><br>
-  ⌨️ Powered by CURIOSITY · Fueled by PASSION<br>
+  ⌨️ Powered by CURIOSITY · Fueled by PASSION
 </p>
-<p align="center">
-  Made with ❤️ by Adwaith, Karthik & Sharvan <br>
-  🪟 Windows &nbsp; | &nbsp; 🐧 Linux &nbsp; | &nbsp; 🍎 macOS <br>
-  
-</p>
+
