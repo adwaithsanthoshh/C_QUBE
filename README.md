@@ -23,12 +23,6 @@ We love building, experimenting, and learning through:
 
 ---
 
-## 📂 Repositories
-
-Here you'll find all our team projects — from experiments to complete applications.
-
----
-
 ## 🛠️ Tech Stack We ❤️
 
 - Python · PyTorch · TensorFlow  
