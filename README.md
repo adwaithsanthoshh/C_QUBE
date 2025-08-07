@@ -9,6 +9,9 @@
 - **Karthik Unnikrishnan**
 - **Sharvan Balakrishnan**
 
+  [Team Cartoon](team-pic.jpeg)
+
+
 ---
 
 ## ⌨️ What We Do
