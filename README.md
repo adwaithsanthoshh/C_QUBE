@@ -1,5 +1,49 @@
-# 🚀 Team Progress & Outputs Repository
+### Welcome to our team repository! We’re a group of passionate students exploring the world of **Artificial Intelligence** and **Computer Science** through hands-on projects.
 
-Welcome to the official repository for our team's project progress, results, and outputs. This serves as a centralized, organized space to track what we've accomplished, what's in progress, and where all our critical files live.
+---
 
---------------------------------------------- .
+## 👨‍💻 Team Members
+
+- **Adwaith Santhosh**
+- **Karthik Unnikrishnan**
+- **Sharvan Balakrishnan**
+
+---
+
+## 🚀 What We Do
+
+We love building, experimenting, and learning through:
+
+- 🧠 AI/ML Projects  
+- 💻 Real-time Computer Vision  
+- 📊 Data Science  
+- 🧪 Research Experiments  
+- 🤖 Automation & Tools
+
+---
+
+## 📂 Repositories
+
+Here you'll find all our team projects — from experiments to complete applications.
+
+---
+
+## 🛠️ Tech Stack We ❤️
+
+- Python · PyTorch · TensorFlow  
+- OpenCV · ONNX · NumPy  
+- Git · VS Code · macOS/Linux
+
+---
+
+## 🌱 About Us
+
+We’re constantly learning, collaborating, and pushing the boundaries of what we can create. This repo is a reflection of our journey as student developers.
+
+---
+
+<p align="center">
+  Made with ❤️ by Adwaith, Karthik & Sharvan <br>
+  🪟 Windows &nbsp; | &nbsp; 🐧 Linux &nbsp; | &nbsp; 🍎 macOS <br>
+  ⌨️ Fueled by curiosity · Powered by code
+</p>
