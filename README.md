@@ -41,9 +41,14 @@ Here you'll find all our team projects — from experiments to complete applicat
 We’re constantly learning, collaborating, and pushing the boundaries of what we can create. This repo is a reflection of our journey as student developers.
 
 ---
-
+<p align="center">
+  🔗 <a href="https://tinyurl.com/adwaith-ln">Adwaith</a> &nbsp;|&nbsp;
+  <a href="https://tinyurl.com/karthik-ln">Karthik</a> &nbsp;|&nbsp;
+  <a href="https://tinyurl.com/shravan-ln">Sharvan</a><br>
+  ⌨️ Powered by CURIOSITY · Fueled by PASSION<br>
+</p>
 <p align="center">
   Made with ❤️ by Adwaith, Karthik & Sharvan <br>
   🪟 Windows &nbsp; | &nbsp; 🐧 Linux &nbsp; | &nbsp; 🍎 macOS <br>
-  ⌨️ Fueled by curiosity · Powered by code
+  
 </p>
