@@ -9,7 +9,7 @@
 - **Karthik Unnikrishnan**
 - **Sharvan Balakrishnan**
 
-  [Team Cartoon](team-pic.jpeg)
+  [Who are we👀](team-pic.jpeg)
 
 
 ---
