@@ -1,5 +1,5 @@
 ### Welcome to our team repository! 
-### We’re a group of passionate students exploring the world of **Artificial Intelligence** and **Computer Science** through hands-on projects.
+### We’re a group of passionate students exploring the world of ``` Artificial Intelligence ``` and ``` Computer Science ``` through hands-on projects.
 
 ---
 
