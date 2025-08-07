@@ -38,17 +38,25 @@
 #### 1. Clone the repository
 
 ```git clone https://github.com/your-username/Deep-Live-Cam.git```
+
+
 ```cd Deep-Live-Cam```
 
 #### 2. Create a Python 3.11 virtual environment
 
 ```python3.11 -m venv venv```
+
+
 ```source venv/bin/activate```
 
 #### 3. Install dependencies
 
 ```pip install --upgrade pip```
-```pip install -r requirements.txt```  [ ⚠️ Make sure you are using Python 3.11. The app may not work correctly on 3.13+. ]
+
+
+```pip install -r requirements.txt``` 
+
+[ ⚠️ Make sure you are using Python 3.11. The app may not work correctly on 3.13+. ]
 
 #### 4. Run the application
 
