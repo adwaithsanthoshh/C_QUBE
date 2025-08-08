@@ -31,6 +31,7 @@ We love building, experimenting, and learning through:
 - Python · PyTorch · TensorFlow  
 - OpenCV · ONNX · NumPy  
 - Git · VS Code · macOS/Linux
+- Kubernetes-Docker
 
 ---
 
