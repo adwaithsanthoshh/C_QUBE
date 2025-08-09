@@ -1,6 +1,5 @@
 # 🧠 Morphik-Core (Docker Edition)
 
-**💻 Powered by CURIOSITY • 🚀 Fueled by PASSION**
 
 Morphik-Core is your **self-hosted, AI-powered knowledge engine**, containerized for easy deployment.  
 With Docker at the helm, you can spin up an intelligent, multimodal search & retrieval system in minutes — no tangled dependencies, no manual setup pain.
