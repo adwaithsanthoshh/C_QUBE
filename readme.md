@@ -22,7 +22,7 @@ We love building, experimenting, and learning through:
 - 💻 Real-time Computer Vision  
 - 📊 Data Science  
 - 🧪 Research Experiments  
-- 🤖 Automation & Tools
+- 🤖 Automation & Tools 
 
 ---
 
